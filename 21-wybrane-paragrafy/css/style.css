@@ -1,0 +1,25 @@
+p {
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
+
+.p4 {
+    background-color: red;
+}
+
+.p6 {
+    background-color: aquamarine;
+}
+
+.p9 {
+    background-color: blueviolet;
+}
+
+.p1 {
+    opacity: 0.5;
+}
+
+.p5 {
+    opacity: 0.3;
+}

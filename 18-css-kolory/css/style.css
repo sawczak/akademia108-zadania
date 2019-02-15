@@ -1,0 +1,19 @@
+body {
+    background-color: #faebd6;
+}
+
+h1 {
+    color: red;
+}
+.t1 {
+    color: brown;
+}
+
+.t2 {
+    color: blue;
+}
+
+div {
+    margin-top: 40px;
+    font-size: 30px;
+}

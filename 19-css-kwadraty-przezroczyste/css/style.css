@@ -1,0 +1,22 @@
+body {
+    background-color: #f5f5dd;
+ }
+ 
+ div {
+    background-color: #000000;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+ }
+
+.kwadrat2 {
+    opacity: 0.7;
+ }
+
+.kwadrat3 {
+    opacity: 0.5;
+ }
+
+.kwadrat4 {
+    opacity: 0.3;
+ }
