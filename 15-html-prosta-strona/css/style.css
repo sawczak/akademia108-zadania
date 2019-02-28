@@ -1,0 +1,84 @@
+li a.about {
+    color: red;
+}
+
+li a.skills {
+    color: green;
+}
+
+li a.portfolio {
+    color: pink;
+}
+
+li a.contact {
+    color: orange;
+}
+
+#about-us {
+    background-color: yellow;
+}
+
+div.box {
+    display: flex;
+    flex-direction: row;
+}
+
+.niebieski {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    
+}
+
+.zielony {
+    background-color: greenyellow;
+    width: 200px;
+    height: 200px;
+}
+.pomaranczowy {
+    background-color: orangered;
+    width: 200px;
+    height: 200px;
+}
+.czerwony {
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+}
+
+div.box2 {
+    display: flex;
+    flex-direction: column;
+}
+
+.niebieski-r {
+    border: 2px solid blue;
+    width: 200px;
+    height: 200px;
+    
+}
+
+.zielony-r {
+    border: 2px solid green;
+    width: 200px;
+    height: 200px;
+}
+.pomaranczowy-r {
+    border: 2px solid orange;
+    width: 200px;
+    height: 200px;
+}
+
+form label {
+    display: block;
+    padding-top: 10px;
+}
+
+input[type="submit"] {
+    background-color: greenyellow;
+    color: red;
+    font-size: 16px;
+    text-transform: uppercase;
+    height: 40px;
+    width: 80px;
+}
